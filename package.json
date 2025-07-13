@@ -1,0 +1,11 @@
+{
+  "name": "com.expx2.urpspellindicator",
+  "version": "1.0.0",
+  "displayName": "URP Spell Indicator",
+  "unity": "6000.0",
+  "author": {
+    "name": "EXPx2",
+    "email": "expx2.dev@gmail.com",
+    "url": ""
+  }
+}
