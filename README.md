@@ -6,6 +6,13 @@ This is shader made with Shader Graph that is compatible with Unity URP.
 
 You can customize Color, Outline, FillLine, Angle, DonutHole
 
+<br>
+
+Tested versions
+
+> ###### Unity 6000.0.38f1<br>Unity 2022.3.58f1
+
+
 ## How to Install
 
 ### Install via git URL
