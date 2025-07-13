@@ -10,7 +10,7 @@ You can customize Color, Outline, FillLine, Angle, DonutHole
 
 Tested versions
 
-> ###### Unity 6000.0.38f1<br>Unity 2022.3.58f1
+> ###### Unity 6000.0.38f1<br>Unity 2022.3.58f1<br>Unity 2021.3.45f1
 
 
 ## How to Install
